@@ -1,0 +1,119 @@
+body {
+  background-color: white;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.bur1 {
+  margin-top: 50px;
+  border: #f2f2f2 solid 10px;
+  background-color: #f2f2f2;
+  border-radius: 20px;
+  width: 700px;
+}
+.bur2 {
+  margin-top: 50px;
+  border: #f2f2f2 solid 10px;
+  background-color: #f2f2f2;
+  border-radius: 20px;
+  width: 700px;
+}
+.bur3 {
+  margin-top: 50px;
+  border: #f2f2f2 solid 10px;
+  background-color: #f2f2f2;
+  border-radius: 20px;
+  width: 700px;
+}
+.bur4 {
+  margin-top: 50px;
+  border: #f2f2f2 solid 10px;
+  background-color: #f2f2f2;
+  border-radius: 20px;
+  width: 700px;
+}
+.bur5 {
+  margin-top: 50px;
+  border: #f2f2f2 solid 10px;
+  background-color: #f2f2f2;
+  border-radius: 20px;
+  width: 700px;
+}
+.bur6 {
+  margin-top: 50px;
+  border: #f2f2f2 solid 10px;
+  background-color: #f2f2f2;
+  border-radius: 20px;
+  width: 700px;
+}
+.SALE {
+  background-color: #f00;
+  border-radius: 10px;
+  width: 50px;
+  color: white;
+  padding: 5px;
+  text-align: center;
+}
+.PRICE {
+  background-color: black;
+  border-radius: 10px;
+  width: 50px;
+  color: white;
+  padding: 5px;
+  text-align: center;
+  float: right;
+  position: relative;
+  top: -65px;
+}
+.navbar {
+  color: #f2f2f2;
+}
+.Container1 {
+  gap: 1px;
+  display: flex;
+  justify-content: space-around;
+}
+.Container2 {
+  margin-top: 3rem;
+  gap: 1px;
+  display: flex;
+  justify-content: space-around;
+}
+.img1 {
+  display: flex;
+  justify-content: right;
+  width: auto;
+}
+.main-subsection {
+  display: flex;
+  order: 1;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 60px;
+  margin-bottom: 60px;
+}
+.main-subsection-card {
+  margin-right: 70px;
+}
+.main-subsection-img {
+  text-align: center;
+}
+.patita {
+  width: 100%;
+}
+.background {
+  background-image: url("../img/background2.webp");
+  height: 200px;
+  margin-top: 100px;
+  margin-bottom: 100px;
+  color: white;
+  text-align: center;
+  border-radius: 10px;
+  padding: 50px;
+}
+.home-footer {
+  background-color: #111;
+  color: #f5f5f5;
+}
+.textointerior {
+  display: flex;
+  justify-content: right;
+}
